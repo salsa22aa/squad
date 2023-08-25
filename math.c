@@ -1,3 +1,1 @@
-int add (void) {  
-
-}
+ int mul (void);
